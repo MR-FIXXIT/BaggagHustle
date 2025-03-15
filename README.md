@@ -7,7 +7,7 @@
 3. Mohammed Rizwan
 4. Suraj Sunil 
 ## Link to Build File
-[Build File]([https://example.com](https://drive.google.com/drive/folders/17CPuz5Uz3OlIx8Y6NFSQqy0-M0PbKZmJ?usp=sharing))
+[Build File](https://drive.google.com/drive/folders/17CPuz5Uz3OlIx8Y6NFSQqy0-M0PbKZmJ?usp=sharing)
 
 ## Abstract
 Baggage Hustle is an interactive game that simulates real-life baggage screening mechanisms used at airports, railway stations, and other security checkpoints. Players must identify and filter out luggage containing prohibited items by analyzing realistic X-ray images.
@@ -55,7 +55,7 @@ To create authentic visuals:
 ## Contributions
 
 - **Mohammed Rizwan**: Developed the core game mechanisms and programming, ensuring smooth gameplay and logic implementation.
-- **Naveen PJ**: Responsible for 3D modeling, creating realistic baggage and item models used throughout the game.
+- **Naveen PJ**: Primarily responsible for 3D modeling, creating realistic baggage and item models used throughout the game, and also contributed to the game mechanics.
 - **Nandakrishna Giri** : Handled all the X-ray images and their related algorithms, including processing and integration, as well as contributing some 3D models.
 - **Suraj Sunil**: Managed all audio work, including sound effects and background music, to enhance the gaming experience.
 
