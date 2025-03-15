@@ -48,6 +48,13 @@ To create authentic visuals:
 - **Unity Engine** (Version: mention specific version)  
 - **C# for scripting**  
 - **X-ray image processing** for realistic visuals  
-- **Randomized baggage generation** for dynamic gameplay  
+- **Randomized baggage generation** for dynamic gameplay
+
+## Contributions
+
+- **Mohammed Rizwan**: Developed the core game mechanisms and programming, ensuring smooth gameplay and logic implementation.
+- **Naveen PJ**: Responsible for 3D modeling, creating realistic baggage and item models used throughout the game.
+- **Nandakrishna Giri** : Handled all the X-ray images and their related algorithms, including processing and integration, as well as contributing some 3D models.
+- **Suraj Sunil**: Managed all audio work, including sound effects and background music, to enhance the gaming experience.
 
 
